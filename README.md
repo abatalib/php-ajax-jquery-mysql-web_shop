@@ -6,5 +6,5 @@ La base de données est incluse dans le projet.
 
 ## Aperçu de l'appli
 ### Liste des produits
-![Aperçu appli PHP+MySQL](https://www.abatalib.com/github/php+products2.png "Liste des produits")
+![Aperçu appli PHP+MySQL](https://www.abatalib.com/github/php+products1.png "Liste des produits")
 
