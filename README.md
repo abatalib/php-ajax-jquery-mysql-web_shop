@@ -1,5 +1,5 @@
 # Shop
-Un projet en PHP+MySQL, repérentant une liste de produits catégorisés incluant une gestion de panier.
+Un projet en PHP+MySQL, représentant une liste de produits catégorisés incluant une gestion de panier.
 
 ## Base de données
 La base de données est incluse dans le projet.
