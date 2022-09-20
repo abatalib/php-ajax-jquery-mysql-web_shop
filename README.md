@@ -9,7 +9,7 @@ La base de données est incluse dans le projet.
 ![Aperçu appli PHP+MySQL](https://www.abatalib.com/github/php+products.png "Liste des produits")
 
 ## Dockerhub
-Le projet et disponible également sous format Docker, référez vous à l'adresse suivante
+Le projet est disponible également sous format Docker, référez vous à l'adresse suivante
 <pre>
 <a href="https://hub.docker.com/r/abatalib/app-webshop-php-ajax-jquery-mysql">https://hub.docker.com/r/abatalib/app-webshop-php-ajax-jquery-mysql</a>
 </pre>
